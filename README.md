@@ -176,4 +176,4 @@ ax.set_title('Box Plot')
 
 
 # Result:
- Include your result here
+Thus, all the data visualization techniques of matplotlib has been implemented.
